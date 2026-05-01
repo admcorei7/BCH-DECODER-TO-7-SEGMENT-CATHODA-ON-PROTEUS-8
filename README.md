@@ -27,9 +27,6 @@
 # Analysis 7 Segment & Truth Table
 ![image](./image/analysis.png)
 
-# Truth Table
-![image](./image/truthtable.jpg)
-
 # Boolean Expressions
 * $Eq(a) = (\bar{C}\bar{A}) + (\bar{D}B) + A + (D\bar{B}) + \bar{A}$
 * $Eq(b) = ((\bar{D}\bar{B})\bar{A}) + ((\bar{D}B)A) + (\bar{C}\bar{A}) + ((D\bar{B})A) + (D\bar{C})$
